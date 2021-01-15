@@ -13,3 +13,13 @@ Please vist the deployed application at the following link (https://msr102087.gi
 ## Sample Screen Shots
 
 ![Screen Shot 2021-01-14 at 6 12 51 PM](https://user-images.githubusercontent.com/74628028/104672425-a0ed8000-5694-11eb-801b-9a231b36a72d.png)
+
+User Must Select Generate Password to continue to select password criteria
+
+![Screen Shot 2021-01-14 at 6 13 30 PM](https://user-images.githubusercontent.com/74628028/104672542-d5f9d280-5694-11eb-9e04-f14ef972ddfd.png)
+
+User must select how many characters they would like the password to be (must meet a minimum of 8 and maximum of 128 characters)
+
+![Screen Shot 2021-01-14 at 6 13 58 PM](https://user-images.githubusercontent.com/74628028/104672642-03df1700-5695-11eb-93fd-ff178abb194d.png)
+
+User must confirm 
