@@ -28,3 +28,11 @@ User must confirm this and all following prompts to proceed.
 
 ![image](https://user-images.githubusercontent.com/74628028/104686451-14ea5100-56b2-11eb-81d0-d2f0cf8eaceb.png)
 
+![image](https://user-images.githubusercontent.com/74628028/104686540-4105d200-56b2-11eb-9f40-bd4af10fc3c0.png)
+
+Once All Criteria has been confirmed.  Algorithm generates a unique password for the user
+
+![Screen Shot 2021-01-14 at 6 14 36 PM](https://user-images.githubusercontent.com/74628028/104686649-7ca09c00-56b2-11eb-8e04-9fe47c48ab7d.png)
+
+
+
