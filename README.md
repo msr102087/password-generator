@@ -34,5 +34,11 @@ Once All Criteria has been confirmed.  Algorithm generates a unique password for
 
 ![Screen Shot 2021-01-14 at 6 14 36 PM](https://user-images.githubusercontent.com/74628028/104686649-7ca09c00-56b2-11eb-8e04-9fe47c48ab7d.png)
 
+## Application Edits and Local Installation 
+
+To install and edit this application, you will need a text editor, such as Visual Studio COde.  To install this code on your local machine, download the zip file or clone the repository from GitHub
+
+
+
 
 
