@@ -22,4 +22,9 @@ User must select how many characters they would like the password to be (must me
 
 ![Screen Shot 2021-01-14 at 6 13 58 PM](https://user-images.githubusercontent.com/74628028/104672642-03df1700-5695-11eb-93fd-ff178abb194d.png)
 
-User must confirm 
+User must confirm this and all following prompts to proceed.
+
+![Screen Shot 2021-01-14 at 6 14 07 PM](https://user-images.githubusercontent.com/74628028/104686367-eff5de00-56b1-11eb-9d59-34a4b51bb9e5.png)
+
+![image](https://user-images.githubusercontent.com/74628028/104686451-14ea5100-56b2-11eb-81d0-d2f0cf8eaceb.png)
+
