@@ -23,7 +23,7 @@ symbols = ["~", "!", "@", "#", "$", "%", "^", "&", "*", ";"]
   // Start Function to Generate Password
 
   function promptUser(){
-    var length = prompt("How many characters would you like your password to be?")
+    var length = prompt("How many characters would you like your password to be? (must be between 8 and 128 characters)")
     if (isNaN(length) === true) {
       alert ("Password length must be a number!")
       return
