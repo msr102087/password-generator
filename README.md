@@ -12,3 +12,4 @@ Please vist the deployed application at the following link (https://msr102087.gi
 
 ## Sample Screen Shots
 
+![Screen Shot 2021-01-14 at 6 12 51 PM](https://user-images.githubusercontent.com/74628028/104672425-a0ed8000-5694-11eb-801b-9a231b36a72d.png)
